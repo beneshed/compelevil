@@ -1,0 +1,9 @@
+.coverage
+*.pyc
+*.cache/
+.idea/
+BLESS.egg-info/
+htmlcov/
+libs/
+publish/
+venv/
